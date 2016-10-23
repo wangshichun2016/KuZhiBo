@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">酷直播</string>
+    <string name="xuanze">选择登陆方式</string>
+    <string name="yonghu">用户即同意《用户协议》</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="sousuo">请输入4位以上的咖号或昵称</string>
+    <string name="quxiao">取消</string>
+    <string name="reci">搜索内容:</string>
+    <string name="geren">个人</string>
+    <string name="zhibohao">直播号:165154455</string>
+    <string name="wangming">烦恼保安哦</string>
+    <string name="vip">LV.0</string>
+    <string name="nums">0</string>
+    <string name="zhibo">直播</string>
+    <string name="zhanghao">账号</string>
+    <string name="shenfen">身份</string>
+    <string name="dongtai">动态</string>
+    <string name="zengsong">赠送</string>
+    <string name="hongrenbang">红人榜</string>
+    <string name="fuhaobang">富豪榜</string>
+    <string name="chongzhi">充值</string>
+    <string name="putongyonghu">普通用户</string>
+    <string name="fensi">粉丝</string>
+    <string name="guanzhu">关注</string>
+    <string name="qianming">此用户很懒，什么都没有</string>
+    <string name="gongxianbang">贡献榜</string>
+    <string name="weizhibo">未直播</string>
+    <string name="huiyuantequan">会员特权</string>
+    <string name="wodeqianbao">我的钱包</string>
+    <string name="wodekuzhibo">我的酷直播</string>
+    <string name="xingqubiaoqian">兴趣标签</string>
+    <string name="shezhis">设置</string>
+    <string name="jinjuan">0  金券</string>
+    <string name="putong">普通会员</string>
+    <string name="kubo_name">网名</string>
+    <string name="kanguo">看过</string>
+    <string name="paihangbang">排行榜</string>
+    <string name="zuijinfangke">最近访客</string>
+    <attr name="borderRadius" format="dimension" />
+    <attr name="type">
+        <enum name="circle" value="0" />
+        <enum name="round" value="1" />
+    </attr>
+    <declare-styleable name="RoundImageView">
+        <attr name="borderRadius" />
+        <attr name="type" />
+    </declare-styleable>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
